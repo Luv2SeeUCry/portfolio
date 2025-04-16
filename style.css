@@ -57,4 +57,25 @@
       padding: 15px;
     }
   }
+
+<style>
+  #projects ul {
+    list-style: none;
+    padding-left: 0;
+  }
+  #projects li {
+    margin-bottom: 1.5em;
+    line-height: 1.6;
+  }
+  #projects a {
+    margin-left: 8px;
+    font-weight: normal;
+    color: #0366d6;
+    text-decoration: none;
+  }
+  #projects a:hover {
+    text-decoration: underline;
+  }
+</style>
+
   
